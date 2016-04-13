@@ -1,11 +1,7 @@
-print "Hello world"
-print "Hello again"
-print "I like typing this"
-print "This is fun"
-print 'Vay! Printing'
-print "I'd much rather you 'not'"
+print "Hello World!"
+print "Hello Again"
+print "I like typing this."
+print "This is fun."
+print 'Yay! Printing.'
+print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
-
-
-print("Miyeon Jo")
-print("2016 03 09 7:49")
